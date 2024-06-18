@@ -1,0 +1,3 @@
+nome = "mariana"
+
+print (nome)
